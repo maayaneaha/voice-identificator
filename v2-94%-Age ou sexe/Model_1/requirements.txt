@@ -1,0 +1,19 @@
+# Requirements
+
+pip install pygame
+pip install pandas
+pip install wavfile
+pip install pydub
+pip install wave
+pip install joblib
+pip install librosa
+pip install keras
+
+
+# Pour windows uniquement 
+pip install pipwin 
+pipwin install pyaudio
+
+# Pour un autre OS 
+pip install pyaudio 
+ 
