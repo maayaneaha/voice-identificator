@@ -11,4 +11,3 @@ Le dossier best_models represente le modèle déja entrainé avec une précision
 
 Le dataset utilisé pour l'entrainement est Common Voice Corpus version française, traité avec le fichier traitement.py afin d'aplatir 
 la gaussienne reprensenté par cette dataset (voir le fichier fig).
-  
